@@ -6,13 +6,13 @@ var
 
 Inicio
 
-   escreva("digite o preco produtos: ")
+   escreva("sobre nos : ")
    leia(preco)
    
    escreva("modificado para catalogo: ")
     leia(quantidade)
     
-    escreva("projeto criado  recebido do cliente: ")
+    escreva("mudado para ft- sobre : ")
     leia (dinheiro)
     
      troco<-dinheiro-preco*quantidade
