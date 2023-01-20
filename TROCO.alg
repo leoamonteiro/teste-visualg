@@ -9,7 +9,7 @@ Inicio
    escreva("digite o preco produtos: ")
    leia(preco)
    
-   escreva("qual a quantidade clientes: ")
+   escreva("modificado para catalogo: ")
     leia(quantidade)
     
     escreva("projeto criado  recebido do cliente: ")
