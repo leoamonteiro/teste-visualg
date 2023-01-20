@@ -9,7 +9,8 @@ Inicio
    escreva("sobre nos : ")
    leia(preco)
    
-   escreva("modificado para catalogo: ")
+   escreva("modificado ft para catalogo: ")
+// criado ft blog
     leia(quantidade)
     
     escreva("mudado para ft- sobre : ")
