@@ -12,7 +12,7 @@ Inicio
    escreva("qual a quantidade comprada: ")
     leia(quantidade)
     
-    escreva("dinheiro  recebido do cliente: ")
+    escreva("projeto criado  recebido do cliente: ")
     leia (dinheiro)
     
      troco<-dinheiro-preco*quantidade
