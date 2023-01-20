@@ -6,10 +6,10 @@ var
 
 Inicio
 
-   escreva("digite o preco unitario: ")
+   escreva("digite o preco produtos: ")
    leia(preco)
    
-   escreva("qual a quantidade comprada: ")
+   escreva("qual a quantidade clientes: ")
     leia(quantidade)
     
     escreva("projeto criado  recebido do cliente: ")
